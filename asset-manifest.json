@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vente-fleurs/static/css/main.b4507621.css",
+    "main.js": "/vente-fleurs/static/js/main.9d02af60.js",
+    "static/js/787.a9891fd9.chunk.js": "/vente-fleurs/static/js/787.a9891fd9.chunk.js",
+    "static/media/monstera.jpg": "/vente-fleurs/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
+    "static/media/bootstrap-icons.woff?": "/vente-fleurs/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/vente-fleurs/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/sun.svg": "/vente-fleurs/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
+    "static/media/water.svg": "/vente-fleurs/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "index.html": "/vente-fleurs/index.html",
+    "main.b4507621.css.map": "/vente-fleurs/static/css/main.b4507621.css.map",
+    "main.9d02af60.js.map": "/vente-fleurs/static/js/main.9d02af60.js.map",
+    "787.a9891fd9.chunk.js.map": "/vente-fleurs/static/js/787.a9891fd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4507621.css",
+    "static/js/main.9d02af60.js"
+  ]
+}
