@@ -1,0 +1,21 @@
+.lmj-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    display: flex;
+}
+h1{
+    font-size: 15px;
+}
+.lmj-logo{
+    width: 10%;
+}
+.icons-button span{
+    margin-right: 5px;
+    
+}
+.icons-button span:hover{
+    color:#31b572;
+}
