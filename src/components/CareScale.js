@@ -17,7 +17,7 @@ function CareScale({ scaleValue, careType }) {
     return (
         <div  onClick={()=>
             alert(`cette plante requiert ${[scaleValue]} ${
-                careType=='light'?'de lumiere':"d'arrosage"
+                careType === 'light' ? 'de lumiere' : "d'arrosage"
             }`)}>
            
             {range.map((rangeElem) => scaleValue >= rangeElem ? <span key={rangeElem.toString()}>{scaleType}</span> : null
